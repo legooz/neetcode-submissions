@@ -1,4 +1,4 @@
--- Write your query below
+-- Select customers with positive revenue in 2020.
 
 
 SELECT customer_id
